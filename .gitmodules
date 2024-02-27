@@ -7,3 +7,6 @@
 [submodule "energy-client"]
 	path = energy-client
 	url = git@github.com:dulive/energy-client.git
+[submodule "netcfglinksprovider"]
+	path = netcfglinksprovider
+	url = git@github.com:dulive/netcfglinksprovider.git
