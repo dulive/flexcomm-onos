@@ -1,0 +1,3 @@
+[submodule "of-extension"]
+	path = of-extension
+	url = git@github.com:dulive/of-extension.git
