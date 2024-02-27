@@ -1,3 +1,6 @@
 [submodule "of-extension"]
 	path = of-extension
 	url = git@github.com:dulive/of-extension.git
+[submodule "fwd"]
+	path = fwd
+	url = git@github.com:dulive/fwd.git
