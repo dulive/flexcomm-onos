@@ -4,3 +4,6 @@
 [submodule "fwd"]
 	path = fwd
 	url = git@github.com:dulive/fwd.git
+[submodule "energy-client"]
+	path = energy-client
+	url = git@github.com:dulive/energy-client.git
