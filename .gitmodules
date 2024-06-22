@@ -1,12 +1,15 @@
 [submodule "of-extension"]
-	path = of-extension
-	url = git@github.com:dulive/of-extension.git
+	path = flexcomm-openflow-extension
+	url = git@github.com:dulive/flexcomm-openflow-extension.git
 [submodule "fwd"]
-	path = fwd
-	url = git@github.com:dulive/fwd.git
+	path = flexcomm-onos-fwd
+	url = git@github.com:dulive/flexcomm-onos-fwd.git
 [submodule "energy-client"]
-	path = energy-client
-	url = git@github.com:dulive/energy-client.git
+	path = flexcomm-onos-energy
+	url = git@github.com:dulive/flexcomm-onos-energy.git
 [submodule "netcfglinksprovider"]
-	path = netcfglinksprovider
-	url = git@github.com:dulive/netcfglinksprovider.git
+	path = flexcomm-onos-netcfglinksprovider
+	url = git@github.com:dulive/flexcomm-onos-netcfglinksprovider.git
+[submodule "flexcomm-onos-statistics"]
+	path = flexcomm-onos-statistics
+	url = git@github.com:dulive/flexcomm-onos-statistics.git
