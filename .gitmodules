@@ -1,9 +1,6 @@
 [submodule "of-extension"]
 	path = flexcomm-openflow-extension
 	url = git@github.com:dulive/flexcomm-openflow-extension.git
-[submodule "fwd"]
-	path = flexcomm-onos-fwd
-	url = git@github.com:dulive/flexcomm-onos-fwd.git
 [submodule "energy-client"]
 	path = flexcomm-onos-energy
 	url = git@github.com:dulive/flexcomm-onos-energy.git
@@ -13,3 +10,6 @@
 [submodule "flexcomm-onos-statistics"]
 	path = flexcomm-onos-statistics
 	url = git@github.com:dulive/flexcomm-onos-statistics.git
+[submodule "flexcomm-onos-fwd"]
+	path = flexcomm-onos-fwd
+	url = git@github.com:dulive/flexcomm-onos-fwd.git
